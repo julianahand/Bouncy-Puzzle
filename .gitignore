@@ -2,8 +2,8 @@
 #
 # Get latest from https://github.com/github/gitignore/blob/master/Unity.gitignore
 #
-/[Ll]ibrary/
-/[Tt]emp/
+/Bouncy Puzzle/[Ll]ibrary/
+/Bouncy Puzzle/[Tt]emp/
 /[Oo]bj/
 /[Bb]uild/
 /[Bb]uilds/
